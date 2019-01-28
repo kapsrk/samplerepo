@@ -1,5 +1,5 @@
 // add.js -entry function
-// Test merge conflict
+// Test merge conflict2
 
 // return summation of two numbers
 function add(a, b) {
