@@ -1,5 +1,5 @@
 // add.js -entry function
-// Test merge conflict
+// Test merge conflict2
 
 // Dev update
 
