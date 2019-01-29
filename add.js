@@ -1,6 +1,5 @@
-// Dev update2
 // add.js -entry function
-// Test merge conflict2
+// Test merge conflict local
 
 // return summation of two numbers
 function add(a, b) {
